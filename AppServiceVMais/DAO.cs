@@ -52,8 +52,6 @@ namespace AppServiceVMais
                             CriArquivoConexao(PathServidor);
                             var dadosarq = "LINK:" + connstr;
                             GravaArquivoConexao(connstr, PathServidor);
-
-
                             break;
                         }
 
